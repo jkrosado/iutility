@@ -1,0 +1,8 @@
+{
+	"name": "EggCrypt For Discord",
+	"desc_short": "Encrypt your Discord messages",
+	"desc_long": "Encrypt your Discord messages and allow only people with the key to see them. Created by the egg himself, castyte.<br><br>No Options To Configure.",
+	"compatitle": "iOS 11",
+	"changelog": "<strong>2.0.1</strong><br>Latest Version<br>",
+	"open": true,
+}
